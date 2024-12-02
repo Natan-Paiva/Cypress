@@ -58,7 +58,7 @@ Este repositório contém os materiais, exercícios e exemplos práticos do curs
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Natan-Paiva/Cypress.git
 
 2. **Instale as dependências:**:
    ```bash
@@ -66,4 +66,4 @@ Este repositório contém os materiais, exercícios e exemplos práticos do curs
 
 3. **Execute os testes:**:
    ```bash
-   npm install
+   npx cypress open
